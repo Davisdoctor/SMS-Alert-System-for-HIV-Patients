@@ -1,1 +1,0 @@
-INSERT INTO `data_dictionary`.`users` (`User_Id`, `Full_Names`, `Sex`, `Phone`, `Email`, `User_Type`, `Username`, `Password`) VALUES (NULL, 'Davis Byamugisha', 'M', '+256704899935', 'samuel.gisha@gmail.com', 'Admin', 'admin', MD5('admin'));
